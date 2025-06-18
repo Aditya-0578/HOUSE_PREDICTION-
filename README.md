@@ -1,4 +1,4 @@
-# HOUSE_PREDICTION-
+# HOUSE_PRICE_PREDICTION
 
 A machine learning project for predicting house prices using various regression techniques and data analysis. This repository contains source code, data preprocessing scripts, exploratory data analysis (EDA), model training, and evaluation for house price prediction.
 
